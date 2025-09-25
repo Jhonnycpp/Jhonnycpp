@@ -33,6 +33,7 @@ Atualmente trabalho principalmente com **Kotlin** e **Android**, mas também ten
 ## 📌 Projetos em destaque  
 - **Android/Kotin - [StarLord](https://github.com/Jhonnycpp/StarLord)** – Repositório de aprendizado, testes e estudos sobre Android, Compose e integrações.
 - **C - [AlgorithmSort](https://github.com/Jhonnycpp/AlgorithmSort)** - Repositório de aprendizado e compartilhamento de algoritmos de ordenação.
+- **C - [Cross-Compile](https://github.com/Jhonnycpp/Jia)** - Repositório de aprendizado do uso e configuração para build com cross-compile entre Sistemas Operacionais.
 - **Python - [Countdown obs](https://github.com/Jhonnycpp/countdown-obs)** - Repositório de aprendizado e integração de script com o aplicativo OBS Studio, aplicativo de streaming.
 ---
 
