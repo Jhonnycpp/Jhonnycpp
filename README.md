@@ -22,7 +22,7 @@ Atualmente trabalho principalmente com **Kotlin** e **Android**, mas também ten
 
 ## 🚀 Tecnologias & Ferramentas  
 - **Linguagens:** Kotlin, Java, Android, C/C++, Golang, C#, Python
-- **Mobile:** Android (Jetpack Compose, Koin, Retrofit, OpenGL, Hilt, Solid, Clean Arch, MVVM)  
+- **Mobile:** Android (Jetpack Compose, Coroutine, Koin, Retrofit, OpenGL, Hilt, Solid, Clean Arch, MVVM)  
 - **Backend:** SptringBoot, REST APIs
 - **Banco de Dados:** MySQL, PostgreSQL, SQLite, BigQuery
 - **DevOps & Build:** Gradle (KTS), Docker, GitHub Actions  
