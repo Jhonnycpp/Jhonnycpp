@@ -55,7 +55,7 @@ Atualmente trabalho principalmente com **Kotlin** e **Android**, mas também ten
 
 ## 📫 Como me encontrar  
 - GitHub: [@Jhonnycpp](https://github.com/Jhonnycpp)  
-- LinkedIn: [linkedin.com/in/jhonatan-ramos]([#](https://www.linkedin.com/in/jhonatan-ramos-3a827a95/))  
+- LinkedIn: [linkedin.com/in/jhonatan-ramos](https://www.linkedin.com/in/jhonatan-ramos-3a827a95/)
 - E-mail: jhonnycpp+gitcontact@gmail.com  
 
 ---
